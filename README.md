@@ -5,10 +5,10 @@
 ## Proyecto desarrollado con HTML, CSS y Javascript (Typescript)
 
 El layaout se adapta a diferentes tamaños de pantalla, es un diseño minimalista de 
-un validador de códigos de verificación para cuentas de correo electronico.
+un validador de códigos de verificación para cuentas de correo electrónico.
 
 El proyecto utiliza Javascript para generar los elementos HTML mediante la API DOM.
-Cada input acepta valores numericos ( 0 - 9 ). 
+Cada input acepta valores numéricos ( 0 - 9 ). 
 
 ## Tools
   ![Logo Vite](public/vitejs-icon.svg)  ![Logo HTML](public/html-icon.svg) ![Logo Vite](public/css-icon.svg) ![Logo Typescript](public/typescript-icon.svg) 
