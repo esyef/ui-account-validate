@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/ui-account-validate',
+  base: '/ui-account-validate/',
 });
